@@ -1,5 +1,5 @@
-About grade plot Concordia University
-=====================================
+About grade plot
+================
 Plot the grade distribution of your class for a given semester at Concordia University.
 
 Requirements
