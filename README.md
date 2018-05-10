@@ -22,7 +22,7 @@ Click on the button to show all columns.
 
 ### Step 4
 Copy the rows of the classes for which you want to plot the grade distribution and paste the text in a .txt file.
-<img src="images/grades_copy.png" width="640">
+<img src="images/grade_copy.png" width="640">
 <img src="images/grade_paste.png" width="480">
 
 ### Step 5
@@ -34,4 +34,4 @@ python3 Main.py </path/to/input_file.txt> </path/to/ouput_file.pdf>
 
 Example
 =======
-<img src="image/result.pdf" height="500">
+<img src="images/result.png" height="500">
