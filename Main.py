@@ -10,7 +10,7 @@ try:
         print("Missing argument.")
         exit()
     if len(sys.argv) > expected_arg + 1:
-        print("Unexpected argmument.")
+        print("Unexpected argument.")
         exit()
 
     # Retrieving path for input / output file
@@ -26,7 +26,7 @@ try:
 
         # Verify if file as pdf extension
         if not str(fout_path).lower().endswith('.pdf'):
-            print("The output file needs to have a pdf extension.")
+            print("The output file needs to have be a .pdf.")
             exit()
 
         # Ask the user if he want to override the file
