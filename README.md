@@ -6,7 +6,7 @@ Requirements
 ============
 Make sure you have [Python3](https://www.python.org/downloads/) installed then run the following command to install the requirements.
 ```
-pip install -r /path/to/requirement.txt
+pip install -r /path/to/requirements.txt
 ```
 
 Usage
